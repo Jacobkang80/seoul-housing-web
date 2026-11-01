@@ -1,0 +1,11 @@
+{
+  "name": "seoul-housing-web",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests.mjs",
+    "build": "node scripts/export-static.mjs",
+    "collect": "node scripts/collect.mjs",
+    "dev": "node scripts/serve.mjs"
+  }
+}

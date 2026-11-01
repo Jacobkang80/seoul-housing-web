@@ -1,0 +1,6 @@
+data/transactions84/
+data/transactions84.json
+data/monthly84.json
+data/history/
+__pycache__/
+*.pyc
