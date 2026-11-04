@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "test": "node --test tests.mjs",
+    "test": "node --test tests.mjs tests/regression.test.mjs",
     "build": "node scripts/export-static.mjs",
     "collect": "node scripts/collect.mjs",
     "dev": "node scripts/serve.mjs"
