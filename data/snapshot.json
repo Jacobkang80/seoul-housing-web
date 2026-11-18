@@ -4,8 +4,8 @@
   "unit": "억원",
   "areaMin": 84,
   "areaMaxExclusive": 85,
-  "updated": "2026-11-17T18:37:37.884Z",
-  "lastAttempt": "2026-11-17T18:37:37.884Z",
+  "updated": "2026-11-18T03:44:25.802Z",
+  "lastAttempt": "2026-11-18T03:44:25.802Z",
   "monthly84": [
     {
       "district": "강남구",
@@ -1816,11 +1816,11 @@
     {
       "district": "강남구",
       "month": "2026-10",
-      "sale": 31.914865,
+      "sale": 31.524359,
       "rent": 11.389998,
-      "saleCount": 37,
+      "saleCount": 39,
       "rentCount": 163,
-      "saleSumManwon": 11808500,
+      "saleSumManwon": 12294500,
       "rentSumManwon": 18565696,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
@@ -1830,12 +1830,12 @@
     {
       "district": "강남구",
       "month": "2026-11",
-      "sale": 33.2875,
-      "rent": 11.684152,
-      "saleCount": 4,
-      "rentCount": 48,
-      "saleSumManwon": 1331500,
-      "rentSumManwon": 5608393,
+      "sale": 34.19,
+      "rent": 11.151091,
+      "saleCount": 5,
+      "rentCount": 55,
+      "saleSumManwon": 1709500,
+      "rentSumManwon": 6133100,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
       "metric": "apt84_monthly_mean",
@@ -3650,11 +3650,11 @@
     {
       "district": "광진구",
       "month": "2026-10",
-      "sale": 19.584375,
+      "sale": 19.579412,
       "rent": 8.557668,
-      "saleCount": 16,
+      "saleCount": 17,
       "rentCount": 80,
-      "saleSumManwon": 3133500,
+      "saleSumManwon": 3328500,
       "rentSumManwon": 6846134,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
@@ -3664,12 +3664,12 @@
     {
       "district": "광진구",
       "month": "2026-11",
-      "sale": null,
-      "rent": 7.962407,
-      "saleCount": 0,
-      "rentCount": 27,
-      "saleSumManwon": 0,
-      "rentSumManwon": 2149850,
+      "sale": 17.7,
+      "rent": 7.9195,
+      "saleCount": 1,
+      "rentCount": 30,
+      "saleSumManwon": 177000,
+      "rentSumManwon": 2375850,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
       "metric": "apt84_monthly_mean",
@@ -5471,11 +5471,11 @@
       "district": "동작구",
       "month": "2026-09",
       "sale": 16.006053,
-      "rent": 8.014922,
+      "rent": 7.991031,
       "saleCount": 38,
-      "rentCount": 129,
+      "rentCount": 131,
       "saleSumManwon": 6082300,
-      "rentSumManwon": 10339250,
+      "rentSumManwon": 10468250,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
       "metric": "apt84_monthly_mean",
@@ -5484,12 +5484,12 @@
     {
       "district": "동작구",
       "month": "2026-10",
-      "sale": 16.724043,
-      "rent": 7.557967,
-      "saleCount": 47,
-      "rentCount": 174,
-      "saleSumManwon": 7860300,
-      "rentSumManwon": 13150862,
+      "sale": 16.67,
+      "rent": 7.550778,
+      "saleCount": 49,
+      "rentCount": 175,
+      "saleSumManwon": 8168300,
+      "rentSumManwon": 13213862,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
       "metric": "apt84_monthly_mean",
@@ -5498,12 +5498,12 @@
     {
       "district": "동작구",
       "month": "2026-11",
-      "sale": 14.633333,
-      "rent": 8.007798,
-      "saleCount": 3,
-      "rentCount": 44,
-      "saleSumManwon": 439000,
-      "rentSumManwon": 3523431,
+      "sale": 14.64,
+      "rent": 7.977624,
+      "saleCount": 5,
+      "rentCount": 45,
+      "saleSumManwon": 732000,
+      "rentSumManwon": 3589931,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
       "metric": "apt84_monthly_mean",
@@ -7318,12 +7318,12 @@
     {
       "district": "마포구",
       "month": "2026-10",
-      "sale": 16.109487,
-      "rent": 8.916502,
-      "saleCount": 39,
-      "rentCount": 127,
-      "saleSumManwon": 6282700,
-      "rentSumManwon": 11323957,
+      "sale": 16.05175,
+      "rent": 8.913248,
+      "saleCount": 40,
+      "rentCount": 128,
+      "saleSumManwon": 6420700,
+      "rentSumManwon": 11408957,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
       "metric": "apt84_monthly_mean",
@@ -7332,12 +7332,12 @@
     {
       "district": "마포구",
       "month": "2026-11",
-      "sale": 16.0575,
-      "rent": 8.307009,
-      "saleCount": 4,
-      "rentCount": 55,
-      "saleSumManwon": 642300,
-      "rentSumManwon": 4568855,
+      "sale": 15.706,
+      "rent": 8.283079,
+      "saleCount": 5,
+      "rentCount": 57,
+      "saleSumManwon": 785300,
+      "rentSumManwon": 4721355,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
       "metric": "apt84_monthly_mean",
@@ -9139,11 +9139,11 @@
       "district": "서초구",
       "month": "2026-09",
       "sale": 32.436333,
-      "rent": 11.289731,
+      "rent": 11.278331,
       "saleCount": 30,
-      "rentCount": 119,
+      "rentCount": 121,
       "saleSumManwon": 9730900,
-      "rentSumManwon": 13434780,
+      "rentSumManwon": 13646780,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
       "metric": "apt84_monthly_mean",
@@ -9153,11 +9153,11 @@
       "district": "서초구",
       "month": "2026-10",
       "sale": 31.240909,
-      "rent": 11.040276,
+      "rent": 11.088873,
       "saleCount": 22,
-      "rentCount": 190,
+      "rentCount": 193,
       "saleSumManwon": 6873000,
-      "rentSumManwon": 20976525,
+      "rentSumManwon": 21401525,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
       "metric": "apt84_monthly_mean",
@@ -9166,12 +9166,12 @@
     {
       "district": "서초구",
       "month": "2026-11",
-      "sale": 18.626667,
-      "rent": 12.450207,
-      "saleCount": 3,
-      "rentCount": 43,
-      "saleSumManwon": 558800,
-      "rentSumManwon": 5353589,
+      "sale": 17.526,
+      "rent": 12.069665,
+      "saleCount": 5,
+      "rentCount": 48,
+      "saleSumManwon": 876300,
+      "rentSumManwon": 5793439,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
       "metric": "apt84_monthly_mean",
@@ -10973,11 +10973,11 @@
       "district": "성동구",
       "month": "2026-09",
       "sale": 20.154348,
-      "rent": 8.49811,
+      "rent": 8.518614,
       "saleCount": 23,
-      "rentCount": 82,
+      "rentCount": 83,
       "saleSumManwon": 4635500,
-      "rentSumManwon": 6968450,
+      "rentSumManwon": 7070450,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
       "metric": "apt84_monthly_mean",
@@ -10987,11 +10987,11 @@
       "district": "성동구",
       "month": "2026-10",
       "sale": 18.692857,
-      "rent": 8.693485,
+      "rent": 8.690362,
       "saleCount": 28,
-      "rentCount": 125,
+      "rentCount": 126,
       "saleSumManwon": 5234000,
-      "rentSumManwon": 10866856,
+      "rentSumManwon": 10949856,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
       "metric": "apt84_monthly_mean",
@@ -11001,11 +11001,11 @@
       "district": "성동구",
       "month": "2026-11",
       "sale": 23.4,
-      "rent": 8.908062,
+      "rent": 8.923171,
       "saleCount": 3,
-      "rentCount": 48,
+      "rentCount": 51,
       "saleSumManwon": 702000,
-      "rentSumManwon": 4275870,
+      "rentSumManwon": 4550817,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
       "metric": "apt84_monthly_mean",
@@ -12834,12 +12834,12 @@
     {
       "district": "송파구",
       "month": "2026-11",
-      "sale": 19.24375,
-      "rent": 9.69643,
-      "saleCount": 8,
-      "rentCount": 93,
-      "saleSumManwon": 1539500,
-      "rentSumManwon": 9017680,
+      "sale": 19.883333,
+      "rent": 9.741825,
+      "saleCount": 9,
+      "rentCount": 103,
+      "saleSumManwon": 1789500,
+      "rentSumManwon": 10034080,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
       "metric": "apt84_monthly_mean",
@@ -14654,11 +14654,11 @@
     {
       "district": "용산구",
       "month": "2026-10",
-      "sale": 22.671429,
+      "sale": 21.65625,
       "rent": 7.970765,
-      "saleCount": 7,
+      "saleCount": 8,
       "rentCount": 51,
-      "saleSumManwon": 1587000,
+      "saleSumManwon": 1732500,
       "rentSumManwon": 4065090,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
@@ -14669,18 +14669,18 @@
       "district": "용산구",
       "month": "2026-11",
       "sale": 20.5,
-      "rent": 8.270882,
+      "rent": 8.5265,
       "saleCount": 1,
-      "rentCount": 17,
+      "rentCount": 20,
       "saleSumManwon": 205000,
-      "rentSumManwon": 1406050,
+      "rentSumManwon": 1705300,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
       "metric": "apt84_monthly_mean",
       "unit": "억원"
     }
   ],
-  "recordCount": 255897,
+  "recordCount": 255957,
   "coverage": [
     {
       "kind": "rent",
@@ -14691,15 +14691,113 @@
     },
     {
       "kind": "sale",
-      "district": "마포구",
-      "year": 2025,
-      "checkedAt": "2026-11-17T04:32:30.643232+00:00",
+      "district": "동작구",
+      "year": 2022,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "rent",
+      "district": "서울8구",
+      "year": 2017,
+      "checkedAt": "2026-11-01T08:40:00.283619+00:00",
+      "complete": true
+    },
+    {
+      "kind": "rent",
+      "district": "송파구",
+      "year": 2026,
+      "checkedAt": "2026-11-18T03:44:13.472580+00:00",
+      "complete": true
+    },
+    {
+      "kind": "rent",
+      "district": "광진구",
+      "year": 2026,
+      "checkedAt": "2026-11-18T03:44:13.472580+00:00",
       "complete": true
     },
     {
       "kind": "sale",
-      "district": "광진구",
-      "year": 2022,
+      "district": "성동구",
+      "year": 2019,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "강남구",
+      "year": 2026,
+      "checkedAt": "2026-11-18T03:44:04.222293+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "용산구",
+      "year": 2024,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "마포구",
+      "year": 2017,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "송파구",
+      "year": 2017,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "강남구",
+      "year": 2016,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "동작구",
+      "year": 2026,
+      "checkedAt": "2026-11-18T03:44:04.222293+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "서초구",
+      "year": 2019,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "동작구",
+      "year": 2020,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "성동구",
+      "year": 2024,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "마포구",
+      "year": 2018,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "동작구",
+      "year": 2024,
       "checkedAt": "2026-11-01T08:40:03.024408+00:00",
       "complete": true
     },
@@ -14707,6 +14805,83 @@
       "kind": "sale",
       "district": "광진구",
       "year": 2023,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "용산구",
+      "year": 2026,
+      "checkedAt": "2026-11-18T03:44:04.222293+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "송파구",
+      "year": 2018,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "송파구",
+      "year": 2024,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "rent",
+      "district": "강남구",
+      "year": 2026,
+      "checkedAt": "2026-11-18T03:44:13.472580+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "용산구",
+      "year": 2023,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "강남구",
+      "year": 2023,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "광진구",
+      "year": 2020,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "마포구",
+      "year": 2026,
+      "checkedAt": "2026-11-18T03:44:04.222293+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "서초구",
+      "year": 2026,
+      "checkedAt": "2026-11-18T03:44:04.222293+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "동작구",
+      "year": 2025,
+      "checkedAt": "2026-11-18T03:44:04.222293+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "서초구",
+      "year": 2020,
       "checkedAt": "2026-11-01T08:40:03.024408+00:00",
       "complete": true
     },
@@ -14720,56 +14895,56 @@
     {
       "kind": "sale",
       "district": "송파구",
-      "year": 2022,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "rent",
-      "district": "서울8구",
-      "year": 2023,
-      "checkedAt": "2026-11-01T08:39:44.052371+00:00",
+      "year": 2025,
+      "checkedAt": "2026-11-18T03:44:04.222293+00:00",
       "complete": true
     },
     {
       "kind": "sale",
-      "district": "마포구",
-      "year": 2026,
-      "checkedAt": "2026-11-17T18:37:19.946045+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "마포구",
+      "district": "서초구",
       "year": 2016,
       "checkedAt": "2026-11-01T08:40:03.024408+00:00",
       "complete": true
     },
     {
-      "kind": "rent",
-      "district": "성동구",
-      "year": 2026,
-      "checkedAt": "2026-11-17T18:37:24.779086+00:00",
-      "complete": true
-    },
-    {
       "kind": "sale",
-      "district": "용산구",
-      "year": 2023,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "성동구",
-      "year": 2018,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "성동구",
+      "district": "송파구",
       "year": 2020,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "서초구",
+      "year": 2025,
+      "checkedAt": "2026-11-18T03:44:04.222293+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "동작구",
+      "year": 2017,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "rent",
+      "district": "서초구",
+      "year": 2026,
+      "checkedAt": "2026-11-18T03:44:13.472580+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "마포구",
+      "year": 2021,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "성동구",
+      "year": 2016,
       "checkedAt": "2026-11-01T08:40:03.024408+00:00",
       "complete": true
     },
@@ -14781,30 +14956,23 @@
       "complete": true
     },
     {
-      "kind": "rent",
-      "district": "서울8구",
-      "year": 2016,
-      "checkedAt": "2026-11-01T08:40:02.903033+00:00",
-      "complete": true
-    },
-    {
       "kind": "sale",
-      "district": "서초구",
-      "year": 2020,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "광진구",
-      "year": 2024,
+      "district": "송파구",
+      "year": 2019,
       "checkedAt": "2026-11-01T08:40:03.024408+00:00",
       "complete": true
     },
     {
       "kind": "sale",
       "district": "성동구",
-      "year": 2024,
+      "year": 2026,
+      "checkedAt": "2026-11-18T03:44:04.222293+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "성동구",
+      "year": 2020,
       "checkedAt": "2026-11-01T08:40:03.024408+00:00",
       "complete": true
     },
@@ -14816,24 +14984,94 @@
       "complete": true
     },
     {
-      "kind": "rent",
-      "district": "용산구",
-      "year": 2026,
-      "checkedAt": "2026-11-17T18:37:24.779086+00:00",
+      "kind": "sale",
+      "district": "광진구",
+      "year": 2021,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
       "complete": true
     },
     {
       "kind": "sale",
-      "district": "용산구",
-      "year": 2016,
+      "district": "강남구",
+      "year": 2025,
+      "checkedAt": "2026-11-18T03:44:04.222293+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "광진구",
+      "year": 2024,
       "checkedAt": "2026-11-01T08:40:03.024408+00:00",
       "complete": true
     },
     {
       "kind": "rent",
-      "district": "마포구",
+      "district": "서울8구",
+      "year": 2025,
+      "checkedAt": "2026-11-01T08:39:41.197208+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "성동구",
+      "year": 2022,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "rent",
+      "district": "서울8구",
+      "year": 2019,
+      "checkedAt": "2026-11-01T08:39:55.525709+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "서초구",
+      "year": 2018,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "송파구",
+      "year": 2022,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "송파구",
       "year": 2026,
-      "checkedAt": "2026-11-17T18:37:24.779086+00:00",
+      "checkedAt": "2026-11-18T03:44:04.222293+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "성동구",
+      "year": 2023,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "송파구",
+      "year": 2016,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "동작구",
+      "year": 2019,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "강남구",
+      "year": 2021,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
       "complete": true
     },
     {
@@ -14844,94 +15082,38 @@
       "complete": true
     },
     {
-      "kind": "sale",
-      "district": "동작구",
-      "year": 2019,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "서초구",
-      "year": 2026,
-      "checkedAt": "2026-11-17T18:37:19.946045+00:00",
-      "complete": true
-    },
-    {
       "kind": "rent",
-      "district": "동작구",
-      "year": 2026,
-      "checkedAt": "2026-11-17T18:37:24.779086+00:00",
+      "district": "서울8구",
+      "year": 2018,
+      "checkedAt": "2026-11-01T08:39:59.037252+00:00",
       "complete": true
     },
     {
       "kind": "sale",
       "district": "광진구",
       "year": 2025,
-      "checkedAt": "2026-11-17T04:32:30.643232+00:00",
+      "checkedAt": "2026-11-18T03:44:04.222293+00:00",
       "complete": true
     },
     {
       "kind": "sale",
-      "district": "마포구",
-      "year": 2018,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "송파구",
-      "year": 2024,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "송파구",
-      "year": 2023,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "마포구",
-      "year": 2023,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "동작구",
-      "year": 2021,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "서초구",
-      "year": 2019,
+      "district": "광진구",
+      "year": 2022,
       "checkedAt": "2026-11-01T08:40:03.024408+00:00",
       "complete": true
     },
     {
       "kind": "rent",
-      "district": "송파구",
+      "district": "용산구",
       "year": 2026,
-      "checkedAt": "2026-11-17T18:37:24.779086+00:00",
+      "checkedAt": "2026-11-18T03:44:13.472580+00:00",
       "complete": true
     },
     {
       "kind": "sale",
-      "district": "용산구",
-      "year": 2018,
+      "district": "마포구",
+      "year": 2023,
       "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "용산구",
-      "year": 2026,
-      "checkedAt": "2026-11-17T18:37:19.946045+00:00",
       "complete": true
     },
     {
@@ -14944,20 +15126,167 @@
     {
       "kind": "sale",
       "district": "광진구",
-      "year": 2018,
+      "year": 2016,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "rent",
+      "district": "서울8구",
+      "year": 2024,
+      "checkedAt": "2026-11-01T08:39:37.212887+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "용산구",
+      "year": 2025,
+      "checkedAt": "2026-11-18T03:44:04.222293+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "동작구",
+      "year": 2021,
       "checkedAt": "2026-11-01T08:40:03.024408+00:00",
       "complete": true
     },
     {
       "kind": "sale",
-      "district": "송파구",
+      "district": "용산구",
+      "year": 2021,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "강남구",
       "year": 2020,
       "checkedAt": "2026-11-01T08:40:03.024408+00:00",
       "complete": true
     },
     {
       "kind": "sale",
+      "district": "서초구",
+      "year": 2021,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "rent",
+      "district": "동작구",
+      "year": 2026,
+      "checkedAt": "2026-11-18T03:44:13.472580+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
       "district": "송파구",
+      "year": 2021,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "마포구",
+      "year": 2024,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "강남구",
+      "year": 2022,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "마포구",
+      "year": 2016,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "서초구",
+      "year": 2024,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "마포구",
+      "year": 2019,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "용산구",
+      "year": 2022,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "성동구",
+      "year": 2018,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "동작구",
+      "year": 2016,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "강남구",
+      "year": 2018,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "광진구",
+      "year": 2026,
+      "checkedAt": "2026-11-18T03:44:04.222293+00:00",
+      "complete": true
+    },
+    {
+      "kind": "rent",
+      "district": "서울8구",
+      "year": 2016,
+      "checkedAt": "2026-11-01T08:40:02.903033+00:00",
+      "complete": true
+    },
+    {
+      "kind": "rent",
+      "district": "성동구",
+      "year": 2026,
+      "checkedAt": "2026-11-18T03:44:13.472580+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "서초구",
+      "year": 2017,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "서초구",
+      "year": 2022,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "강남구",
       "year": 2017,
       "checkedAt": "2026-11-01T08:40:03.024408+00:00",
       "complete": true
@@ -14971,6 +15300,55 @@
     },
     {
       "kind": "sale",
+      "district": "성동구",
+      "year": 2017,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "rent",
+      "district": "서울8구",
+      "year": 2023,
+      "checkedAt": "2026-11-01T08:39:44.052371+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "성동구",
+      "year": 2025,
+      "checkedAt": "2026-11-18T03:44:04.222293+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "광진구",
+      "year": 2019,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "동작구",
+      "year": 2023,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "용산구",
+      "year": 2020,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "용산구",
+      "year": 2016,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
       "district": "강남구",
       "year": 2019,
       "checkedAt": "2026-11-01T08:40:03.024408+00:00",
@@ -14978,30 +15356,30 @@
     },
     {
       "kind": "sale",
-      "district": "서초구",
-      "year": 2023,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "district": "마포구",
+      "year": 2025,
+      "checkedAt": "2026-11-18T03:44:04.222293+00:00",
       "complete": true
     },
     {
       "kind": "sale",
-      "district": "송파구",
-      "year": 2019,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "서초구",
-      "year": 2018,
+      "district": "광진구",
+      "year": 2017,
       "checkedAt": "2026-11-01T08:40:03.024408+00:00",
       "complete": true
     },
     {
       "kind": "rent",
-      "district": "서울8구",
-      "year": 2024,
-      "checkedAt": "2026-11-01T08:39:37.212887+00:00",
+      "district": "마포구",
+      "year": 2026,
+      "checkedAt": "2026-11-18T03:44:13.472580+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "서초구",
+      "year": 2023,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
       "complete": true
     },
     {
@@ -15013,414 +15391,36 @@
     },
     {
       "kind": "sale",
-      "district": "송파구",
-      "year": 2025,
-      "checkedAt": "2026-11-17T04:32:30.643232+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "용산구",
-      "year": 2021,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "rent",
-      "district": "서울8구",
-      "year": 2017,
-      "checkedAt": "2026-11-01T08:40:00.283619+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "마포구",
-      "year": 2017,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
       "district": "동작구",
-      "year": 2025,
-      "checkedAt": "2026-11-17T04:32:30.643232+00:00",
-      "complete": true
-    },
-    {
-      "kind": "rent",
-      "district": "서울8구",
-      "year": 2019,
-      "checkedAt": "2026-11-01T08:39:55.525709+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "강남구",
-      "year": 2022,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "광진구",
-      "year": 2020,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "강남구",
-      "year": 2026,
-      "checkedAt": "2026-11-17T18:37:19.946045+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "용산구",
-      "year": 2022,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "광진구",
-      "year": 2016,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "광진구",
-      "year": 2019,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "용산구",
-      "year": 2025,
-      "checkedAt": "2026-11-17T04:32:30.643232+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "강남구",
-      "year": 2025,
-      "checkedAt": "2026-11-17T04:32:30.643232+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "마포구",
-      "year": 2020,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "마포구",
-      "year": 2021,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "송파구",
-      "year": 2021,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "성동구",
-      "year": 2019,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "강남구",
       "year": 2018,
       "checkedAt": "2026-11-01T08:40:03.024408+00:00",
       "complete": true
     },
     {
       "kind": "sale",
-      "district": "동작구",
-      "year": 2017,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "서초구",
-      "year": 2024,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "rent",
-      "district": "강남구",
-      "year": 2026,
-      "checkedAt": "2026-11-17T18:37:24.779086+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "동작구",
-      "year": 2026,
-      "checkedAt": "2026-11-17T18:37:19.946045+00:00",
-      "complete": true
-    },
-    {
-      "kind": "rent",
-      "district": "서울8구",
-      "year": 2025,
-      "checkedAt": "2026-11-01T08:39:41.197208+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "성동구",
-      "year": 2026,
-      "checkedAt": "2026-11-17T18:37:19.946045+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "서초구",
-      "year": 2016,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "강남구",
-      "year": 2021,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "송파구",
-      "year": 2026,
-      "checkedAt": "2026-11-17T18:37:19.946045+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "송파구",
-      "year": 2016,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "성동구",
-      "year": 2016,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "rent",
-      "district": "광진구",
-      "year": 2026,
-      "checkedAt": "2026-11-17T18:37:24.779086+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
       "district": "용산구",
-      "year": 2024,
+      "year": 2018,
       "checkedAt": "2026-11-01T08:40:03.024408+00:00",
       "complete": true
     },
     {
       "kind": "sale",
-      "district": "성동구",
+      "district": "마포구",
+      "year": 2020,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "광진구",
+      "year": 2018,
+      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
+      "complete": true
+    },
+    {
+      "kind": "sale",
+      "district": "송파구",
       "year": 2023,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "동작구",
-      "year": 2024,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "동작구",
-      "year": 2023,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "성동구",
-      "year": 2017,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "동작구",
-      "year": 2018,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "강남구",
-      "year": 2020,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "마포구",
-      "year": 2024,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "동작구",
-      "year": 2020,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "광진구",
-      "year": 2026,
-      "checkedAt": "2026-11-17T18:37:19.946045+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "송파구",
-      "year": 2018,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "용산구",
-      "year": 2020,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "서초구",
-      "year": 2017,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "rent",
-      "district": "서초구",
-      "year": 2026,
-      "checkedAt": "2026-11-17T18:37:24.779086+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "서초구",
-      "year": 2021,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "성동구",
-      "year": 2022,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "동작구",
-      "year": 2022,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "강남구",
-      "year": 2017,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "rent",
-      "district": "서울8구",
-      "year": 2018,
-      "checkedAt": "2026-11-01T08:39:59.037252+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "마포구",
-      "year": 2019,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "광진구",
-      "year": 2021,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "성동구",
-      "year": 2025,
-      "checkedAt": "2026-11-17T04:32:30.643232+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "광진구",
-      "year": 2017,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "동작구",
-      "year": 2016,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "서초구",
-      "year": 2025,
-      "checkedAt": "2026-11-17T04:32:30.643232+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "서초구",
-      "year": 2022,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "강남구",
-      "year": 2023,
-      "checkedAt": "2026-11-01T08:40:03.024408+00:00",
-      "complete": true
-    },
-    {
-      "kind": "sale",
-      "district": "강남구",
-      "year": 2016,
       "checkedAt": "2026-11-01T08:40:03.024408+00:00",
       "complete": true
     }
