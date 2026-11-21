@@ -4,8 +4,8 @@
   "unit": "억원",
   "areaMin": 84,
   "areaMaxExclusive": 85,
-  "updated": "2026-11-20T17:52:09.694Z",
-  "lastAttempt": "2026-11-20T17:52:09.694Z",
+  "updated": "2026-11-21T03:15:48.811Z",
+  "lastAttempt": "2026-11-21T03:15:48.811Z",
   "monthly84": [
     {
       "district": "강남구",
@@ -1830,12 +1830,12 @@
     {
       "district": "강남구",
       "month": "2026-11",
-      "sale": 34.19,
-      "rent": 11.284758,
-      "saleCount": 5,
-      "rentCount": 62,
-      "saleSumManwon": 1709500,
-      "rentSumManwon": 6996550,
+      "sale": 33.158333,
+      "rent": 11.225076,
+      "saleCount": 6,
+      "rentCount": 66,
+      "saleSumManwon": 1989500,
+      "rentSumManwon": 7408550,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
       "metric": "apt84_monthly_mean",
@@ -3650,12 +3650,12 @@
     {
       "district": "광진구",
       "month": "2026-10",
-      "sale": 19.7425,
-      "rent": 8.557668,
-      "saleCount": 20,
-      "rentCount": 80,
-      "saleSumManwon": 3948500,
-      "rentSumManwon": 6846134,
+      "sale": 19.861364,
+      "rent": 8.58782,
+      "saleCount": 22,
+      "rentCount": 81,
+      "saleSumManwon": 4369500,
+      "rentSumManwon": 6956134,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
       "metric": "apt84_monthly_mean",
@@ -3665,11 +3665,11 @@
       "district": "광진구",
       "month": "2026-11",
       "sale": 17.7,
-      "rent": 7.922097,
+      "rent": 7.875,
       "saleCount": 1,
-      "rentCount": 31,
+      "rentCount": 33,
       "saleSumManwon": 177000,
-      "rentSumManwon": 2455850,
+      "rentSumManwon": 2598750,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
       "metric": "apt84_monthly_mean",
@@ -5484,12 +5484,12 @@
     {
       "district": "동작구",
       "month": "2026-10",
-      "sale": 16.548627,
-      "rent": 7.538905,
-      "saleCount": 51,
-      "rentCount": 177,
-      "saleSumManwon": 8439800,
-      "rentSumManwon": 13343862,
+      "sale": 16.604423,
+      "rent": 7.534894,
+      "saleCount": 52,
+      "rentCount": 178,
+      "saleSumManwon": 8634300,
+      "rentSumManwon": 13412112,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
       "metric": "apt84_monthly_mean",
@@ -5498,12 +5498,12 @@
     {
       "district": "동작구",
       "month": "2026-11",
-      "sale": 14.64,
-      "rent": 8.056887,
-      "saleCount": 5,
-      "rentCount": 52,
-      "saleSumManwon": 732000,
-      "rentSumManwon": 4189581,
+      "sale": 14.233333,
+      "rent": 8.051107,
+      "saleCount": 6,
+      "rentCount": 57,
+      "saleSumManwon": 854000,
+      "rentSumManwon": 4589131,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
       "metric": "apt84_monthly_mean",
@@ -7318,12 +7318,12 @@
     {
       "district": "마포구",
       "month": "2026-10",
-      "sale": 15.850444,
-      "rent": 8.943813,
-      "saleCount": 45,
-      "rentCount": 130,
-      "saleSumManwon": 7132700,
-      "rentSumManwon": 11626957,
+      "sale": 15.864565,
+      "rent": 8.935573,
+      "saleCount": 46,
+      "rentCount": 132,
+      "saleSumManwon": 7297700,
+      "rentSumManwon": 11794957,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
       "metric": "apt84_monthly_mean",
@@ -7332,12 +7332,12 @@
     {
       "district": "마포구",
       "month": "2026-11",
-      "sale": 15.706,
-      "rent": 8.163534,
-      "saleCount": 5,
-      "rentCount": 62,
-      "saleSumManwon": 785300,
-      "rentSumManwon": 5061391,
+      "sale": 15.838333,
+      "rent": 8.168448,
+      "saleCount": 6,
+      "rentCount": 65,
+      "saleSumManwon": 950300,
+      "rentSumManwon": 5309491,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
       "metric": "apt84_monthly_mean",
@@ -9139,11 +9139,11 @@
       "district": "서초구",
       "month": "2026-09",
       "sale": 32.436333,
-      "rent": 11.276244,
+      "rent": 11.305468,
       "saleCount": 30,
-      "rentCount": 123,
+      "rentCount": 124,
       "saleSumManwon": 9730900,
-      "rentSumManwon": 13869780,
+      "rentSumManwon": 14018780,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
       "metric": "apt84_monthly_mean",
@@ -9152,11 +9152,11 @@
     {
       "district": "서초구",
       "month": "2026-10",
-      "sale": 32.796,
+      "sale": 32.469231,
       "rent": 11.087513,
-      "saleCount": 25,
+      "saleCount": 26,
       "rentCount": 196,
-      "saleSumManwon": 8199000,
+      "saleSumManwon": 8442000,
       "rentSumManwon": 21731525,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
@@ -9166,12 +9166,12 @@
     {
       "district": "서초구",
       "month": "2026-11",
-      "sale": 20.85375,
-      "rent": 11.916554,
-      "saleCount": 8,
-      "rentCount": 54,
-      "saleSumManwon": 1668300,
-      "rentSumManwon": 6434939,
+      "sale": 25.203,
+      "rent": 11.983472,
+      "saleCount": 10,
+      "rentCount": 58,
+      "saleSumManwon": 2520300,
+      "rentSumManwon": 6950414,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
       "metric": "apt84_monthly_mean",
@@ -10986,12 +10986,12 @@
     {
       "district": "성동구",
       "month": "2026-10",
-      "sale": 18.689655,
-      "rent": 8.669178,
-      "saleCount": 29,
-      "rentCount": 127,
-      "saleSumManwon": 5420000,
-      "rentSumManwon": 11009856,
+      "sale": 19.046774,
+      "rent": 8.687387,
+      "saleCount": 31,
+      "rentCount": 128,
+      "saleSumManwon": 5904500,
+      "rentSumManwon": 11119856,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
       "metric": "apt84_monthly_mean",
@@ -11000,12 +11000,12 @@
     {
       "district": "성동구",
       "month": "2026-11",
-      "sale": 18.466667,
-      "rent": 8.881131,
-      "saleCount": 6,
-      "rentCount": 59,
-      "saleSumManwon": 1108000,
-      "rentSumManwon": 5239867,
+      "sale": 18.242857,
+      "rent": 8.732995,
+      "saleCount": 7,
+      "rentCount": 64,
+      "saleSumManwon": 1277000,
+      "rentSumManwon": 5589117,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
       "metric": "apt84_monthly_mean",
@@ -12820,12 +12820,12 @@
     {
       "district": "송파구",
       "month": "2026-10",
-      "sale": 22.914857,
-      "rent": 9.720397,
-      "saleCount": 70,
-      "rentCount": 265,
-      "saleSumManwon": 16040400,
-      "rentSumManwon": 25759052,
+      "sale": 23.056901,
+      "rent": 9.705283,
+      "saleCount": 71,
+      "rentCount": 266,
+      "saleSumManwon": 16370400,
+      "rentSumManwon": 25816052,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
       "metric": "apt84_monthly_mean",
@@ -12834,12 +12834,12 @@
     {
       "district": "송파구",
       "month": "2026-11",
-      "sale": 23.65625,
-      "rent": 9.617144,
-      "saleCount": 16,
-      "rentCount": 118,
-      "saleSumManwon": 3785000,
-      "rentSumManwon": 11348230,
+      "sale": 23.33913,
+      "rent": 9.662858,
+      "saleCount": 23,
+      "rentCount": 127,
+      "saleSumManwon": 5368000,
+      "rentSumManwon": 12271830,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
       "metric": "apt84_monthly_mean",
@@ -14669,24 +14669,24 @@
       "district": "용산구",
       "month": "2026-11",
       "sale": 21.925,
-      "rent": 8.3172,
+      "rent": 8.329815,
       "saleCount": 2,
-      "rentCount": 25,
+      "rentCount": 27,
       "saleSumManwon": 438500,
-      "rentSumManwon": 2079300,
+      "rentSumManwon": 2249050,
       "source": "https://land.seoul.go.kr/land/rtms/transactionInfo.do",
       "rentSource": "https://data.seoul.go.kr/dataList/OA-21276/S/1/datasetView.do",
       "metric": "apt84_monthly_mean",
       "unit": "억원"
     }
   ],
-  "recordCount": 256070,
+  "recordCount": 256132,
   "coverage": [
     {
       "kind": "sale",
       "district": "마포구",
       "year": 2026,
-      "checkedAt": "2026-11-20T17:51:50.617417+00:00",
+      "checkedAt": "2026-11-21T03:15:21.324053+00:00",
       "complete": true
     },
     {
@@ -14735,14 +14735,14 @@
       "kind": "sale",
       "district": "마포구",
       "year": 2025,
-      "checkedAt": "2026-11-20T03:23:22.808280+00:00",
+      "checkedAt": "2026-11-21T03:15:21.324053+00:00",
       "complete": true
     },
     {
       "kind": "rent",
       "district": "동작구",
       "year": 2026,
-      "checkedAt": "2026-11-20T17:51:56.401661+00:00",
+      "checkedAt": "2026-11-21T03:15:34.829642+00:00",
       "complete": true
     },
     {
@@ -14770,7 +14770,7 @@
       "kind": "sale",
       "district": "서초구",
       "year": 2025,
-      "checkedAt": "2026-11-20T03:23:22.808280+00:00",
+      "checkedAt": "2026-11-21T03:15:21.324053+00:00",
       "complete": true
     },
     {
@@ -14847,7 +14847,7 @@
       "kind": "sale",
       "district": "강남구",
       "year": 2025,
-      "checkedAt": "2026-11-20T03:23:22.808280+00:00",
+      "checkedAt": "2026-11-21T03:15:21.324053+00:00",
       "complete": true
     },
     {
@@ -14868,14 +14868,14 @@
       "kind": "sale",
       "district": "서초구",
       "year": 2026,
-      "checkedAt": "2026-11-20T17:51:50.617417+00:00",
+      "checkedAt": "2026-11-21T03:15:21.324053+00:00",
       "complete": true
     },
     {
       "kind": "sale",
       "district": "송파구",
       "year": 2026,
-      "checkedAt": "2026-11-20T17:51:50.617417+00:00",
+      "checkedAt": "2026-11-21T03:15:21.324053+00:00",
       "complete": true
     },
     {
@@ -14903,7 +14903,7 @@
       "kind": "sale",
       "district": "성동구",
       "year": 2025,
-      "checkedAt": "2026-11-20T03:23:22.808280+00:00",
+      "checkedAt": "2026-11-21T03:15:21.324053+00:00",
       "complete": true
     },
     {
@@ -14959,7 +14959,7 @@
       "kind": "rent",
       "district": "광진구",
       "year": 2026,
-      "checkedAt": "2026-11-20T17:51:56.401661+00:00",
+      "checkedAt": "2026-11-21T03:15:34.829642+00:00",
       "complete": true
     },
     {
@@ -15008,14 +15008,14 @@
       "kind": "sale",
       "district": "광진구",
       "year": 2026,
-      "checkedAt": "2026-11-20T17:51:50.617417+00:00",
+      "checkedAt": "2026-11-21T03:15:21.324053+00:00",
       "complete": true
     },
     {
       "kind": "rent",
       "district": "용산구",
       "year": 2026,
-      "checkedAt": "2026-11-20T17:51:56.401661+00:00",
+      "checkedAt": "2026-11-21T03:15:34.829642+00:00",
       "complete": true
     },
     {
@@ -15029,14 +15029,14 @@
       "kind": "rent",
       "district": "강남구",
       "year": 2026,
-      "checkedAt": "2026-11-20T17:51:56.401661+00:00",
+      "checkedAt": "2026-11-21T03:15:34.829642+00:00",
       "complete": true
     },
     {
       "kind": "rent",
       "district": "송파구",
       "year": 2026,
-      "checkedAt": "2026-11-20T17:51:56.401661+00:00",
+      "checkedAt": "2026-11-21T03:15:34.829642+00:00",
       "complete": true
     },
     {
@@ -15064,7 +15064,7 @@
       "kind": "sale",
       "district": "용산구",
       "year": 2025,
-      "checkedAt": "2026-11-20T03:23:22.808280+00:00",
+      "checkedAt": "2026-11-21T03:15:21.324053+00:00",
       "complete": true
     },
     {
@@ -15120,7 +15120,7 @@
       "kind": "sale",
       "district": "동작구",
       "year": 2026,
-      "checkedAt": "2026-11-20T17:51:50.617417+00:00",
+      "checkedAt": "2026-11-21T03:15:21.324053+00:00",
       "complete": true
     },
     {
@@ -15162,7 +15162,7 @@
       "kind": "rent",
       "district": "서초구",
       "year": 2026,
-      "checkedAt": "2026-11-20T17:51:56.401661+00:00",
+      "checkedAt": "2026-11-21T03:15:34.829642+00:00",
       "complete": true
     },
     {
@@ -15183,7 +15183,7 @@
       "kind": "rent",
       "district": "마포구",
       "year": 2026,
-      "checkedAt": "2026-11-20T17:51:56.401661+00:00",
+      "checkedAt": "2026-11-21T03:15:34.829642+00:00",
       "complete": true
     },
     {
@@ -15204,7 +15204,7 @@
       "kind": "sale",
       "district": "광진구",
       "year": 2025,
-      "checkedAt": "2026-11-20T03:23:22.808280+00:00",
+      "checkedAt": "2026-11-21T03:15:21.324053+00:00",
       "complete": true
     },
     {
@@ -15295,14 +15295,14 @@
       "kind": "sale",
       "district": "송파구",
       "year": 2025,
-      "checkedAt": "2026-11-20T03:23:22.808280+00:00",
+      "checkedAt": "2026-11-21T03:15:21.324053+00:00",
       "complete": true
     },
     {
       "kind": "sale",
       "district": "동작구",
       "year": 2025,
-      "checkedAt": "2026-11-20T03:23:22.808280+00:00",
+      "checkedAt": "2026-11-21T03:15:21.324053+00:00",
       "complete": true
     },
     {
@@ -15323,7 +15323,7 @@
       "kind": "rent",
       "district": "성동구",
       "year": 2026,
-      "checkedAt": "2026-11-20T17:51:56.401661+00:00",
+      "checkedAt": "2026-11-21T03:15:34.829642+00:00",
       "complete": true
     },
     {
@@ -15344,7 +15344,7 @@
       "kind": "sale",
       "district": "용산구",
       "year": 2026,
-      "checkedAt": "2026-11-20T17:51:50.617417+00:00",
+      "checkedAt": "2026-11-21T03:15:21.324053+00:00",
       "complete": true
     },
     {
@@ -15358,7 +15358,7 @@
       "kind": "sale",
       "district": "성동구",
       "year": 2026,
-      "checkedAt": "2026-11-20T17:51:50.617417+00:00",
+      "checkedAt": "2026-11-21T03:15:21.324053+00:00",
       "complete": true
     },
     {
@@ -15386,7 +15386,7 @@
       "kind": "sale",
       "district": "강남구",
       "year": 2026,
-      "checkedAt": "2026-11-20T17:51:50.617417+00:00",
+      "checkedAt": "2026-11-21T03:15:21.324053+00:00",
       "complete": true
     },
     {
