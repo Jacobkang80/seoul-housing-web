@@ -4,8 +4,8 @@
   "unit": "억원",
   "areaMin": 84,
   "areaMaxExclusive": 85,
-  "updated": "2026-11-24T06:06:06.314Z",
-  "lastAttempt": "2026-11-24T06:06:06.314Z",
+  "updated": "2026-11-24T20:12:26.371Z",
+  "lastAttempt": "2026-11-24T20:12:26.371Z",
   "monthly84": [
     {
       "district": "강남구",
@@ -14686,7 +14686,7 @@
       "kind": "sale",
       "district": "마포구",
       "year": 2026,
-      "checkedAt": "2026-11-24T06:05:40.904911+00:00",
+      "checkedAt": "2026-11-24T20:12:04.844636+00:00",
       "complete": true
     },
     {
@@ -14742,7 +14742,7 @@
       "kind": "rent",
       "district": "동작구",
       "year": 2026,
-      "checkedAt": "2026-11-24T06:05:52.177451+00:00",
+      "checkedAt": "2026-11-24T20:12:12.005251+00:00",
       "complete": true
     },
     {
@@ -14868,14 +14868,14 @@
       "kind": "sale",
       "district": "서초구",
       "year": 2026,
-      "checkedAt": "2026-11-24T06:05:40.904911+00:00",
+      "checkedAt": "2026-11-24T20:12:04.844636+00:00",
       "complete": true
     },
     {
       "kind": "sale",
       "district": "송파구",
       "year": 2026,
-      "checkedAt": "2026-11-24T06:05:40.904911+00:00",
+      "checkedAt": "2026-11-24T20:12:04.844636+00:00",
       "complete": true
     },
     {
@@ -14959,7 +14959,7 @@
       "kind": "rent",
       "district": "광진구",
       "year": 2026,
-      "checkedAt": "2026-11-24T06:05:52.177451+00:00",
+      "checkedAt": "2026-11-24T20:12:12.005251+00:00",
       "complete": true
     },
     {
@@ -15008,14 +15008,14 @@
       "kind": "sale",
       "district": "광진구",
       "year": 2026,
-      "checkedAt": "2026-11-24T06:05:40.904911+00:00",
+      "checkedAt": "2026-11-24T20:12:04.844636+00:00",
       "complete": true
     },
     {
       "kind": "rent",
       "district": "용산구",
       "year": 2026,
-      "checkedAt": "2026-11-24T06:05:52.177451+00:00",
+      "checkedAt": "2026-11-24T20:12:12.005251+00:00",
       "complete": true
     },
     {
@@ -15029,14 +15029,14 @@
       "kind": "rent",
       "district": "강남구",
       "year": 2026,
-      "checkedAt": "2026-11-24T06:05:52.177451+00:00",
+      "checkedAt": "2026-11-24T20:12:12.005251+00:00",
       "complete": true
     },
     {
       "kind": "rent",
       "district": "송파구",
       "year": 2026,
-      "checkedAt": "2026-11-24T06:05:52.177451+00:00",
+      "checkedAt": "2026-11-24T20:12:12.005251+00:00",
       "complete": true
     },
     {
@@ -15120,7 +15120,7 @@
       "kind": "sale",
       "district": "동작구",
       "year": 2026,
-      "checkedAt": "2026-11-24T06:05:40.904911+00:00",
+      "checkedAt": "2026-11-24T20:12:04.844636+00:00",
       "complete": true
     },
     {
@@ -15162,7 +15162,7 @@
       "kind": "rent",
       "district": "서초구",
       "year": 2026,
-      "checkedAt": "2026-11-24T06:05:52.177451+00:00",
+      "checkedAt": "2026-11-24T20:12:12.005251+00:00",
       "complete": true
     },
     {
@@ -15183,7 +15183,7 @@
       "kind": "rent",
       "district": "마포구",
       "year": 2026,
-      "checkedAt": "2026-11-24T06:05:52.177451+00:00",
+      "checkedAt": "2026-11-24T20:12:12.005251+00:00",
       "complete": true
     },
     {
@@ -15323,7 +15323,7 @@
       "kind": "rent",
       "district": "성동구",
       "year": 2026,
-      "checkedAt": "2026-11-24T06:05:52.177451+00:00",
+      "checkedAt": "2026-11-24T20:12:12.005251+00:00",
       "complete": true
     },
     {
@@ -15344,7 +15344,7 @@
       "kind": "sale",
       "district": "용산구",
       "year": 2026,
-      "checkedAt": "2026-11-24T06:05:40.904911+00:00",
+      "checkedAt": "2026-11-24T20:12:04.844636+00:00",
       "complete": true
     },
     {
@@ -15358,7 +15358,7 @@
       "kind": "sale",
       "district": "성동구",
       "year": 2026,
-      "checkedAt": "2026-11-24T06:05:40.904911+00:00",
+      "checkedAt": "2026-11-24T20:12:04.844636+00:00",
       "complete": true
     },
     {
@@ -15386,7 +15386,7 @@
       "kind": "sale",
       "district": "강남구",
       "year": 2026,
-      "checkedAt": "2026-11-24T06:05:40.904911+00:00",
+      "checkedAt": "2026-11-24T20:12:04.844636+00:00",
       "complete": true
     },
     {
